@@ -11,7 +11,6 @@ public class Exercise10 {
 		for(int i=0;i<n;i++) {
 			t[i] = a[i];
 		}
-		Arrays.sort(t);
 		return t;
 	}
 }
